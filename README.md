@@ -41,4 +41,3 @@ Search for `TODO [` to find every task; the code in brackets matches the brief.
 * Record all AI use in `AI_USAGE_LOG.md`.
 * Every member commits their own work from their own Git account.
 
-sakjhd
