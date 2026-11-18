@@ -40,3 +40,5 @@ Search for `TODO [` to find every task; the code in brackets matches the brief.
 * Do not delete `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, `.cursorrules` or `.github/copilot-instructions.md`.
 * Record all AI use in `AI_USAGE_LOG.md`.
 * Every member commits their own work from their own Git account.
+
+sakjhd
